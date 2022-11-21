@@ -1,1 +1,0 @@
-CSS files should be saved to this folder.
